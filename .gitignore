@@ -1,0 +1,11 @@
+# Ignore the model fits (these are large)
+mrCOSTS fit/*
+
+# But keep the directory
+!mrCOSTS fit/
+
+!mrCOSTS fit/.gitkeep
+
+.*checkpoints
+*.pdf
+*.jpg
