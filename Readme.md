@@ -4,15 +4,15 @@ This repository contains the notebooks demonstrating how to recreate the figures
 
 ## Requirements
 
-numpy
-scipy
-matplotlib
-seaborn
-xarray
-pandas
-pydmd
-netcdf4
-h5netcdf
+- numpy
+- scipy
+- matplotlib
+- seaborn
+- xarray
+- pandas
+- pydmd newer than March 2025
+- netcdf4
+- h5netcdf
 
 You might have to do some trouble shooting. This repository is provided as a demonstration, not a tutorial.
 
